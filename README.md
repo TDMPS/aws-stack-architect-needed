@@ -1,7 +1,7 @@
 # aws-stack-architect-needed
 Our client is hiring a full stack AWS architect for their gas energy business platform. See README for details.
 
-# 🚀 AWS Software Architect – Full Stack (React, Node.js, AWS Lambda)
+# 🚀 AWS Software Architect – Full Stack (React, Node.js, AWS Lambda) [REMOTE/HYBRID]
 
 ### 🔥 TL;DR
 **Haemme kokenutta sovellusarkkitehtia kehittämään kaasuliiketoiminnan kriittisiä sovelluksia AWS-pilviarkkitehtuuriin.**
